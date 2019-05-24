@@ -1,1 +1,2 @@
+Exercise to solve conflicts in PR
 Exercise 13 from master branch
