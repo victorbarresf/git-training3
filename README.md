@@ -11,3 +11,5 @@ Edit 10
 Edit for rebase
 Edit 11
 Edit 12
+Fixed the issue
+Pull request checking 1
